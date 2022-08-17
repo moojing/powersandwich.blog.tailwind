@@ -11,7 +11,7 @@ const ContentSecurityPolicy = `
   media-src 'none';
   connect-src *;
   font-src 'self';
-  frame-src giscus.app
+  frame-src giscus.app codesandbox.io
 `
 
 const securityHeaders = [
@@ -67,7 +67,7 @@ module.exports = withBundleAnalyzer({
     ]
   },
   images: {
-    domains: ['github.com'],
+    domains: ['github.com', 'codesandbox.io'],
   },
   webpack: (config, { dev, isServer }) => {
     config.module.rules.push({
