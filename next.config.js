@@ -66,6 +66,9 @@ module.exports = withBundleAnalyzer({
       },
     ]
   },
+  images: {
+    domains: ['github.com'],
+  },
   webpack: (config, { dev, isServer }) => {
     config.module.rules.push({
       test: /\.svg$/,
