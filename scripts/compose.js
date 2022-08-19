@@ -111,6 +111,8 @@ inquirer
       .replace(/ /g, '-')
       .replace(/-+/g, '-')
 
+    console.log('fileTitle :', fileTitle)
+    console.log('fileName :', fileTitle.toLowerCase().replace(/[^a-zA-Z0-9 ]/g, ''))
     const frontMatter = genFrontMatter(answers)
 
     if (!fs.existsSync('data/blog/' + enclosingFolder)) {
