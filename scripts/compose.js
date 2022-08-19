@@ -2,6 +2,7 @@ const fs = require('fs')
 const path = require('path')
 const inquirer = require('inquirer')
 const dedent = require('dedent')
+const dayJS = require('dayjs')
 
 const root = process.cwd()
 
@@ -101,7 +102,9 @@ inquirer
   ])
   .then((answers) => {
     // Remove special characters and replace space with -
-    const fileName = answers.title
+    const today = dayJS().format('YYYY-DD-MM')
+    const prefixedFileName = today + ' ' + answers.title
+    const fileName = prefixedFileName
       .toLowerCase()
       .replace(/[^a-zA-Z0-9 ]/g, '')
       .replace(/ /g, '-')
