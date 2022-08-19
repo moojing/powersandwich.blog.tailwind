@@ -1,5 +1,4 @@
 ---
-slug: react-design-pattern
 title: React 設計模式 - 複合元件
 author: mujing
 tags: [frontend, javascript]
