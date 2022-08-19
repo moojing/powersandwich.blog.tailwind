@@ -191,7 +191,7 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 
 ## Post
 
-### Frontmatter
+## Frontmatter
 
 Frontmatter follows [Hugo's standards](https://gohugo.io/content-management/front-matter/).
 
@@ -227,7 +227,7 @@ canonicalUrl: https://tailwind-nextjs-starter-blog.vercel.app/blog/introducing-t
 ---
 ```
 
-### Compose
+## Compose
 
 Run `node ./scripts/compose.js` to bootstrap a new post.
 
