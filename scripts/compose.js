@@ -105,14 +105,8 @@ inquirer
     const today = dayJS().format('YYYY-DD-MM')
 
     // Remove special characters and replace space with -
-    const fileName = fileTitle
-      .toLowerCase()
-      .replace(/[^a-zA-Z0-9 ]/g, '')
-      .replace(/ /g, '-')
-      .replace(/-+/g, '-')
+    const fileName = fileTitle.toLowerCase().replace(/ /g, '-').replace(/-+/g, '-')
 
-    console.log('fileTitle :', fileTitle)
-    console.log('fileName :', fileTitle.toLowerCase().replace(/[^a-zA-Z0-9 ]/g, ''))
     const frontMatter = genFrontMatter(answers)
 
     if (!fs.existsSync('data/blog/' + enclosingFolder)) {
