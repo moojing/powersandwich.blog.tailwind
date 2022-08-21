@@ -8,12 +8,14 @@ summary: '在上一篇模組化系列文章的第二篇，我們說明了使用 
 
 ## Outline
 
-- Rollup 打包實作
-- Rollup Plugin 說明
-- Tree Shaking
-- Webpack 真的有 Tree Shaking?
-- Webpack 如何做到 Tree Shaking?
-- Webpack Tree Shaking 的進一步優化
+- [Rollup 打包實作](#rollup-打包實作)
+
+- [Tree Shaking](#tree-shaking)
+- [Webpack 真的有 Tree Shaking?](#webpack-真的有-tree-shaking)
+- [Webpack 如何做到 Tree Shaking?](#webpack-如何做到-tree-shaking)
+- [Webpack Tree Shaking 的進一步優化](#webpack-tree-shaking-的進一步優化)
+- [寫在最後](#寫在最後)
+- [參考資源](#參考資源)
 
 ## Rollup 打包實作
 
