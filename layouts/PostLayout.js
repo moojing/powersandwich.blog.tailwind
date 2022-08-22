@@ -87,8 +87,9 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
             </dl>
             <div className="divide-y divide-gray-200 dark:divide-gray-700 xl:col-span-3 xl:row-span-2 xl:pb-0">
               <div
-                className="prose  prose-slate max-w-none pt-10 
-                    pb-8 
+                className="prose  prose-lg prose-slate max-w-none 
+                    pt-10 
+                    pb-8
                     prose-blockquote:not-italic
                     dark:prose-dark"
               >
