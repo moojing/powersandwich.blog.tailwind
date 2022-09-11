@@ -6,7 +6,7 @@ const siteMetadata = {
   language: 'zh-tw',
   theme: 'system', // system, dark or light
   siteUrl: 'https://powersandwich-blog-tailwind-test.vercel.app/',
-  siteRepo: '',
+  siteRepo: 'https://github.com/moojing/powersandwich.blog.tailwind',
   siteLogo: '/static/images/logo.svg',
   image: '/static/images/avatar.png',
   socialBanner: '/static/images/social-card.png',
