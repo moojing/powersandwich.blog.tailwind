@@ -46,7 +46,7 @@ canonicalUrl:
 
 小偷便從這個打開的洞口往洞穴的另一邊逃出去了，過了幾秒之後門就又自動關上了，彷彿什麼也沒有發生過一般，然後後面追趕的受害者理所當然的跟當初的阿里巴巴一樣撲了個空。在所有人都離開了之後，阿里巴巴決定試試跟前面的小偷一樣試試能夠開啟洞穴底部的魔法咒語，『芝麻開門』，在他他唸出咒語後，果然洞穴真的就打開了！
 
-在一陣子的摸索之後，阿里巴巴又進一步發現了，這個密碼其實是可以修改的，他便趁著沒有人靠近的時候，把這個山洞底部的密碼偷偷改掉了；不久後，過了幾天，就有某幾個小偷因為密碼被改掉的關係，被抓到了。阿里巴巴決定把有關這個洞穴的秘密紀錄了下來，雖然他沒有直接把那句能夠用來開門的咒語寫下來，但是他留下了一些線索，在他的手稿裡面。
+在一陣子的摸索之後，阿里巴巴又進一步發現了，這個洞穴的咒語其實是可以修改的，他便趁著沒有人靠近的時候，把這個山洞底部的密碼偷偷改掉了；不久後，過了幾天，就有某幾個小偷因為密碼被改掉的關係，被抓到了。阿里巴巴決定把有關這個洞穴的秘密紀錄了下來，雖然他沒有直接把那句能夠用來開門的咒語寫下來，但是他留下了一些線索，在他的手稿裡面。
 
 ### 阿里巴巴的洞穴手稿
 
@@ -66,7 +66,7 @@ canonicalUrl:
 
 ### 一位嫉妒的記者
 
-另一個電視台的記者也聽到了山洞的事情，所以他也聯絡了 Mick 想要請他拍攝一樣的節目，不過卻被 Mick 拒絕了，因為他已經把拍攝節目的權力賣給了前面的電視台；不過調皮的 Mick 給了記者一個提示：『這個節目不需要真的知道咒語也能夠拍了出來』。
+另一個電視台的記者也聽到了山洞的事情，所以他也聯絡了 Mick 想要請他拍攝一樣的節目，不過卻被 Mick 拒絕了，因為他已經把拍攝節目的權力賣給了前面的電視台；不過調皮的 Mick 給了記者一個提示：『這個節目不需要真的知道咒語也能夠拍的出來』。
 
 這位記者回去之後想了又想，終於讓他給想通了；他找來了一位長得跟 Mick 很像的替身，並且也找了攝影師，開始模仿前面 Mick 在前一個節目拍攝的方式，這位記者對節目動的唯一手腳就是：他把替身 Mick 從山洞正確的一邊出來的失敗片段剪掉了；只留下了所有成功的錄影畫面。
 
@@ -82,5 +82,5 @@ canonicalUrl:
 ### 參考連結
 
 - [How to Explain Zero-Knowledge Protocols to Your Children - 原文](https://pages.cs.wisc.edu/~mkowalcz/628.pdf)
-- [【译】How to Explain Zero-Knowledge Protocols to Your Children](https://blog.dreamerryao.wiki/archives/%E8%AF%91howtoexplainzero-knowledgeprotocolstoyourchildren#%E4%B8%80%E6%AC%A1%E6%B5%8B%E8%AF%95%EF%BC%8C%E4%B8%80%E4%B8%AA%E7%A7%98%E5%AF%86)
+- [【译】How to Explain Zero-Knowledge Protocols to Your Children](https://blog.dreamerryao.wiki/archives/%E8%AF%91howtoexplainzero-knowledgeprotocolstoyourchildren)
 - [https://ethereum.org/en/zero-knowledge-proofs](https://ethereum.org/en/zero-knowledge-proofs)
